@@ -12,7 +12,7 @@ No changes are ever made to your live data until you explicitly review, approve,
 
 This architecture puts a human-in-the-loop by design. You can experiment with powerful AI edits, knowing your original source is untouched until you give the final command.
 
-### Getting started fast
+### Getting started quickly
 
 1. Connect: Click on _Data sources_ to link a live data source (Notion, YouTube, etc.).
 2. Create: Open that connection and create a new _Workbook_.
