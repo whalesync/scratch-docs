@@ -29,3 +29,31 @@ WordPress uses application password authentication:
 3. Scroll to **Application Passwords**
 4. Enter a name (e.g., "Scratch") and click **Add New**
 5. Copy the generated password
+
+## Supported field types
+
+WordPress fields are discovered dynamically from your site's REST API. Common fields include:
+
+| Field | Support |
+|-------|---------|
+| Title | ✅ Read/Write |
+| Content | ✅ Read/Write |
+| Excerpt | ✅ Read/Write |
+| Slug | ✅ Read/Write |
+| Status | ✅ Read/Write |
+| Date | ✅ Read/Write |
+| Categories | ✅ Read/Write |
+| Tags | ✅ Read/Write |
+| Featured image | ✅ Read/Write |
+| Author | ✅ Read/Write |
+| ID | ➡️ Read Only |
+| Modified date | ➡️ Read Only |
+| Link | ➡️ Read Only |
+
+### Advanced Custom Fields (ACF)
+
+If your site uses ACF, those fields are also supported and appear as additional columns in your workbook.
+
+### Content format
+
+Post content can be edited as HTML or Markdown. Scratch handles the conversion automatically.

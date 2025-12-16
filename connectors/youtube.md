@@ -23,6 +23,23 @@ YouTube requires OAuth authentication:
 4. Select the channel you want to work with
 5. Create a Workbook from your connection
 
+## Supported field types
+
+| Field | Support |
+|-------|---------|
+| Title | ✅ Read/Write |
+| Description | ✅ Read/Write |
+| Category | ✅ Read/Write |
+| Default language | ✅ Read/Write |
+| Transcript | ✅ Read/Write* |
+| Tags | ➡️ Read Only |
+| Privacy status | ➡️ Read Only |
+| Published date | ➡️ Read Only |
+| Video URL | ➡️ Read Only |
+| Studio URL | ➡️ Read Only |
+
+*Transcript editing works with draft captions, not auto-generated captions.
+
 ## Use cases
 
 - Standardize video titles across your channel

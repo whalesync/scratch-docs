@@ -21,3 +21,30 @@ Scratch supports two ways to connect to Webflow:
 3. Authorize access or enter your API key
 4. Select the site and collections you want to work with
 5. Create a Workbook from your connection
+
+## Supported field types
+
+| Field Type | Support |
+|------------|---------|
+| Plain text | ✅ Read/Write |
+| Rich text | ✅ Read/Write |
+| Number | ✅ Read/Write |
+| Switch (boolean) | ✅ Read/Write |
+| Date/time | ✅ Read/Write |
+| Email | ✅ Read/Write |
+| Phone | ✅ Read/Write |
+| Link | ✅ Read/Write |
+| Video link | ✅ Read/Write |
+| Option (select) | ✅ Read/Write |
+| Color | ✅ Read/Write |
+| Reference | ✅ Read/Write |
+| Slug | ✅ Read/Write |
+| Is draft | ➡️ Read Only |
+| Is archived | ➡️ Read Only |
+| Last published | ➡️ Read Only |
+| Last updated | ➡️ Read Only |
+| Created on | ➡️ Read Only |
+
+### Rich text format
+
+Rich text fields can be edited as HTML or Markdown. Scratch handles the conversion automatically.

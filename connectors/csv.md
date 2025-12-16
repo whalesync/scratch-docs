@@ -19,6 +19,18 @@ No authentication required - simply upload your file.
 3. Upload your CSV file
 4. Create a Workbook from your upload
 
+## Supported field types
+
+CSV files are flexible - all columns from your file are imported as text fields.
+
+| Field Type | Support |
+|------------|---------|
+| Text columns | ✅ Read/Write |
+| Number columns | ✅ Read/Write |
+| Date columns | ✅ Read/Write |
+
+All fields are editable. When you export, the data is written back in CSV format.
+
 ## Tips
 
 - Ensure your CSV has a header row

@@ -21,3 +21,72 @@ Scratch supports two ways to connect to Notion:
 3. Authorize access or enter your API key
 4. Select the databases you want to work with
 5. Create a Workbook from your connection
+
+## Supported field types
+
+| Field Type | Support |
+|------------|---------|
+| Title | ✅ Read/Write |
+| Rich Text | ✅ Read/Write |
+| Number | ✅ Read/Write |
+| Select | ✅ Read/Write |
+| Multi-select | ✅ Read/Write |
+| Status | ✅ Read/Write |
+| Date | ✅ Read/Write |
+| Checkbox | ✅ Read/Write |
+| URL | ✅ Read/Write |
+| Email | ✅ Read/Write |
+| Phone | ✅ Read/Write |
+| Relation | ✅ Read/Write |
+| Formula | ➡️ Read Only |
+| Rollup | ➡️ Read Only |
+| Created time | ➡️ Read Only |
+| Created by | ➡️ Read Only |
+| Last edited time | ➡️ Read Only |
+| Last edited by | ➡️ Read Only |
+| People | ➡️ Read Only |
+| Files | ➡️ Read Only |
+
+## Page Content
+
+Notion pages contain block-based content. Scratch converts this to Markdown for editing and syncs changes back as blocks.
+
+### Supported block types
+
+| Block Type | Support |
+|------------|---------|
+| Paragraph | ✅ Read/Write |
+| Heading 1 | ✅ Read/Write |
+| Heading 2 | ✅ Read/Write |
+| Heading 3 | ✅ Read/Write |
+| Bulleted list | ✅ Read/Write |
+| Numbered list | ✅ Read/Write |
+| To-do list | ✅ Read/Write |
+| Toggle | ✅ Read/Write |
+| Quote | ✅ Read/Write |
+| Code | ✅ Read/Write |
+| Callout | ✅ Read/Write |
+| Divider | ✅ Read/Write |
+| Table | ✅ Read/Write |
+| Image | ✅ Read/Write |
+| Video | ✅ Read/Write |
+| Audio | ✅ Read/Write |
+| File | ✅ Read/Write |
+| PDF | ✅ Read/Write |
+| Bookmark | ✅ Read/Write |
+| Embed | ✅ Read/Write |
+| Equation | ✅ Read/Write |
+| Table of contents | ✅ Read/Write |
+| Breadcrumb | ✅ Read/Write |
+| Column layout | ✅ Read/Write |
+| Synced block | ✅ Read/Write |
+| Child page | ➡️ Read Only |
+| Link to page | ➡️ Read Only |
+
+### Rich text formatting
+
+Inline formatting is preserved:
+
+- **Bold**, *italic*, ~~strikethrough~~, `code`
+- Underline and text colors
+- Hyperlinks
