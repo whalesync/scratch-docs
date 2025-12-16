@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Welcome to Scratch](README.md)
-* [Managing context](managing-context.md)
+* [FAQ](faq.md)
 
 ## Connectors
 
@@ -22,5 +22,5 @@
 
 ## Resources
 
-* [FAQ](resources/faq.md)
+
 * [YouTube Channel](resources/youtube.md)
