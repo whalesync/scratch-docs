@@ -11,7 +11,7 @@ Scratch supports two ways to connect to Airtable:
 
 <details>
 
-<summary>How to get an Airtable API key</summary>
+<summary>How to get an API key</summary>
 
 1. Go to [airtable.com/create/tokens](https://airtable.com/create/tokens)
 2. Click **Create new token**

@@ -11,7 +11,7 @@ Scratch supports two ways to connect to Webflow:
 
 <details>
 
-<summary>How to get a Webflow API key</summary>
+<summary>How to get an API key</summary>
 
 1. Go to your Webflow dashboard
 2. Open the site you want to connect

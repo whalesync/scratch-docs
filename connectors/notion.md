@@ -11,7 +11,7 @@ Scratch supports two ways to connect to Notion:
 
 <details>
 
-<summary>How to get a Notion API key</summary>
+<summary>How to get an API key</summary>
 
 1. Go to [notion.so/my-integrations](https://www.notion.so/my-integrations)
 2. Click **New integration**
