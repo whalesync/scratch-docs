@@ -9,6 +9,22 @@ Scratch supports two ways to connect to Webflow:
 - **OAuth** (recommended) - Click "Connect with Webflow" and authorize access
 - **API Key** - Use a site API token from your Webflow project settings
 
+<details>
+
+<summary>How to get a Webflow API key</summary>
+
+1. Go to your Webflow dashboard
+2. Open the site you want to connect
+3. Click **Site settings** (gear icon)
+4. Go to the **Apps & Integrations** tab
+5. Scroll down to **API Access**
+6. Click **Generate API token**
+7. Copy the token
+
+Note: Site API tokens have access to that specific site only. For multiple sites, use OAuth instead.
+
+</details>
+
 ## What you can sync
 
 - CMS collections and items

@@ -9,6 +9,24 @@ Scratch supports two ways to connect to Notion:
 - **OAuth** (recommended) - Click "Connect with Notion" and authorize access
 - **API Key** - Create an integration in Notion and paste your API key
 
+<details>
+
+<summary>How to get a Notion API key</summary>
+
+1. Go to [notion.so/my-integrations](https://www.notion.so/my-integrations)
+2. Click **New integration**
+3. Give it a name (e.g., "Scratch")
+4. Select the workspace you want to connect
+5. Click **Submit**
+6. Copy the **Internal Integration Secret** (starts with `ntn_`)
+7. **Important**: Share your databases with the integration:
+   - Open each database you want to use in Scratch
+   - Click **Share** in the top right
+   - Click **Invite**
+   - Search for your integration name and select it
+
+</details>
+
 ## What you can sync
 
 - Notion databases and their properties

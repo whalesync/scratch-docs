@@ -22,4 +22,5 @@
 
 ## Resources
 
+* [FAQ](resources/faq.md)
 * [YouTube Channel](resources/youtube.md)

@@ -9,6 +9,23 @@ Scratch supports two ways to connect to Airtable:
 - **OAuth** (recommended) - Click "Connect with Airtable" and authorize access
 - **API Key** - Use a personal access token from your Airtable account
 
+<details>
+
+<summary>How to get an Airtable API key</summary>
+
+1. Go to [airtable.com/create/tokens](https://airtable.com/create/tokens)
+2. Click **Create new token**
+3. Give it a name (e.g., "Scratch")
+4. Add scopes:
+   - `data.records:read` - to read your records
+   - `data.records:write` - to update records
+   - `schema.bases:read` - to see your base structure
+5. Under **Access**, add the bases you want to use with Scratch
+6. Click **Create token**
+7. Copy the token (starts with `pat`)
+
+</details>
+
 ## What you can sync
 
 - Airtable bases and tables
