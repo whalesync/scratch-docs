@@ -1,4 +1,4 @@
-# Webflow
+# <img src="../.gitbook/assets/webflow.svg" alt="" data-size="line"> Webflow
 
 Connect your Webflow CMS collections to Scratch to edit and manage content with AI.
 

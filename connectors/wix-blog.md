@@ -1,4 +1,4 @@
-# Wix Blog
+# <img src="../.gitbook/assets/wix.svg" alt="" data-size="line"> Wix Blog
 
 Connect your Wix blog to Scratch to edit and manage blog posts with AI.
 

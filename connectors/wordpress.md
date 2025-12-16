@@ -1,4 +1,4 @@
-# WordPress
+# <img src="../.gitbook/assets/wordpress.svg" alt="" data-size="line"> WordPress
 
 Connect your WordPress site to Scratch to edit and manage blog posts with AI.
 
