@@ -1,4 +1,4 @@
-# YouTube
+# <img src="../.gitbook/assets/youtube.svg" alt="" data-size="line"> YouTube
 
 Connect your YouTube channel to Scratch to manage video titles, descriptions, and metadata with AI.
 

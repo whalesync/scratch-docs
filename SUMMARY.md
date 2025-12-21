@@ -7,13 +7,13 @@
 
 ## Connectors
 
-* [Notion](connectors/notion.md)
-* [Airtable](connectors/airtable.md)
-* [YouTube](connectors/youtube.md)
-* [WordPress](connectors/wordpress.md)
-* [Webflow](connectors/webflow.md)
-* [Wix Blog](connectors/wix-blog.md)
-* [CSV Upload](connectors/csv.md)
+* [<img src=".gitbook/assets/notion.svg" alt="" data-size="line"> Notion](connectors/notion.md)
+* [<img src=".gitbook/assets/airtable.svg" alt="" data-size="line"> Airtable](connectors/airtable.md)
+* [<img src=".gitbook/assets/youtube.svg" alt="" data-size="line"> YouTube](connectors/youtube.md)
+* [<img src=".gitbook/assets/wordpress.svg" alt="" data-size="line"> WordPress](connectors/wordpress.md)
+* [<img src=".gitbook/assets/webflow.svg" alt="" data-size="line"> Webflow](connectors/webflow.md)
+* [<img src=".gitbook/assets/wix.svg" alt="" data-size="line"> Wix Blog](connectors/wix-blog.md)
+* [<img src=".gitbook/assets/csv.svg" alt="" data-size="line"> CSV Upload](connectors/csv.md)
 
 ## Features
 
@@ -21,6 +21,5 @@
 * [Diff Review & Publishing](features/diff-review.md)
 
 ## Resources
-
 
 * [YouTube Channel](resources/youtube.md)

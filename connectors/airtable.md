@@ -1,4 +1,4 @@
-# Airtable
+# <img src="../.gitbook/assets/airtable.svg" alt="" data-size="line"> Airtable
 
 Connect your Airtable bases to Scratch to edit and manage your content with AI.
 

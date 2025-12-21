@@ -1,4 +1,4 @@
-# Notion
+# <img src="../.gitbook/assets/notion.svg" alt="" data-size="line"> Notion
 
 Connect your Notion databases to Scratch to edit and manage your content with AI.
 

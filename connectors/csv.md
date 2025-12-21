@@ -1,4 +1,4 @@
-# CSV Upload
+# <img src="../.gitbook/assets/csv.svg" alt="" data-size="line"> CSV Upload
 
 Upload CSV files to Scratch to edit and manage tabular content with AI.
 
