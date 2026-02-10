@@ -9,6 +9,7 @@
 ## Sync
 
 * [Overview](sync/README.md)
+* [Record Matching](sync/record-matching.md)
 
 ## CLI
 
