@@ -1,5 +1,5 @@
-# Getting started
+# Scratch Documentation
 
-## Welcome to Scratch
+Documentation coming soon.
 
-COMING SOON
+For questions, reach out to support@scratch.md

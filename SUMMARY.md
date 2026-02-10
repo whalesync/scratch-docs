@@ -1,26 +1,19 @@
 # Table of contents
 
-## Getting Started
-
-* [Welcome to Scratch](README.md)
-* [FAQ](faq.md)
+* [Welcome](README.md)
 
 ## Connectors
 
-* [Notion](connectors/notion.md)
-* [Airtable](connectors/airtable.md)
-* [YouTube](connectors/youtube.md)
-* [WordPress](connectors/wordpress.md)
-* [Webflow](connectors/webflow.md)
-* [Wix Blog](connectors/wix-blog.md)
-* [CSV Upload](connectors/csv.md)
+* [Overview](connectors/README.md)
 
-## Features
+## Sync
 
-* [AI-Powered Editing](features/ai-editing.md)
-* [Diff Review & Publishing](features/diff-review.md)
+* [Overview](sync/README.md)
 
-## Resources
+## CLI
 
+* [Overview](cli/README.md)
 
-* [YouTube Channel](resources/youtube.md)
+## Publishing
+
+* [Overview](publishing/README.md)
