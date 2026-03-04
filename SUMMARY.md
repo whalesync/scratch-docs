@@ -10,6 +10,7 @@
 
 * [Overview](sync/README.md)
 * [Record Matching](sync/record-matching.md)
+* [Transformers](sync/transformers.md)
 
 ## CLI
 
